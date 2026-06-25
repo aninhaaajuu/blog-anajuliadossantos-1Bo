@@ -1,3 +1,10 @@
-body{
-        background-color: aquamarine;
-      }  
+.cabecalho {
+  background-color: rgb(192, 240, 224);
+  color: rgb(71, 71, 194);
+} 
+
+.conteudo-principal{
+  background-color: rgb(12, 12, 179);
+  color: rgb(195, 247, 247);
+}
+ 
