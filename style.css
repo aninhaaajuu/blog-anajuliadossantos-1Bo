@@ -7,4 +7,20 @@
   background-color: rgb(71, 71, 194);
   color: rgb(192, 240, 224);
 }
- 
+
+.cabecalho {
+    background-color: rgb(2, 252, 231);
+    color:rgb(0, 0, 0);
+    text-align: center;
+    max-width:800px;
+    margin: 0 auto
+}
+
+
+.imagem-principal{
+    width: 900px;
+    height: 700px;
+}
+.cabecalho-paragrafo{
+    font-weight: bold
+}
